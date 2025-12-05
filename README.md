@@ -6,12 +6,12 @@ This is the official implementation of my work during the DS 440W Capstone proje
 
 The official website is published at: https://web-trend-1.onrender.com/ 
 
-*Note* The website will take around 20-30 seconds to load
+*Note* The website has been removed since I used a free trial to host the website. I plan to self-host the website in the future.
 
 To run the program locally, follow the steps below:
 
 # Frontend
-The frontend was developed using React framework. I used Typescript as the programming language.  Once you have downloaded the github repository use the steps below to step up the frontend of the project.
+The frontend was developed using the React framework. I used Typescript as the programming language.  Once you have downloaded the GitHub repository, use the steps below to step up the frontend of the project.
 
 Install the necessary packages to run the frontend.
 ```shell
